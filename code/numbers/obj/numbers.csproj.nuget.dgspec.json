@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Program\\Program\\numbers\\numbers.csproj": {}
+    "E:\\Program\\Program\\code\\numbers\\numbers.csproj": {}
   },
   "projects": {
-    "F:\\Program\\Program\\numbers\\numbers.csproj": {
+    "E:\\Program\\Program\\code\\numbers\\numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Program\\Program\\numbers\\numbers.csproj",
+        "projectUniqueName": "E:\\Program\\Program\\code\\numbers\\numbers.csproj",
         "projectName": "numbers",
-        "projectPath": "F:\\Program\\Program\\numbers\\numbers.csproj",
-        "packagesPath": "C:\\Users\\ZhuMingHuan\\.nuget\\packages\\",
-        "outputPath": "F:\\Program\\Program\\numbers\\obj\\",
+        "projectPath": "E:\\Program\\Program\\code\\numbers\\numbers.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Program\\Program\\code\\numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZhuMingHuan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
