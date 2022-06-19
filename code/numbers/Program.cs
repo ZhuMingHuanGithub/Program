@@ -1,7 +1,7 @@
 using System;
-namespace numberApplication
+namespace numbersApplication
 {
-    class number
+    class numbers
     {
         static void Main(string[] args)
         {
