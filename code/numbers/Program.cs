@@ -10,14 +10,14 @@ namespace numberApplication
             int n;
             int num2;
 
-            for(; ; )
+            for( ; ; )
             {
                 Console.WriteLine("您要猜1至几的数字？请输入整数。");
                 num = Convert.ToInt32(Console.ReadLine());
                 num = num + 1;
                 n = dice.Next(1, num);
 
-                for(; ; )
+                for( ; ; )
                 {
                     Console.WriteLine("请猜。");
                     num2 = Convert.ToInt32(Console.ReadLine());
