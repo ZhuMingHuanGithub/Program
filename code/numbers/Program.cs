@@ -3,7 +3,7 @@ namespace numbersApplication
 {
     class numbers
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Random dice = new Random();
             int num = 0;
